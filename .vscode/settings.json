@@ -1,7 +1,8 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\Users\\santi\\Desktop\\My Things\\Univ\\Algoritmos\\junit-platform-console-standalone-1.8.0-M1.jar"
+        "c:\\Users\\santi\\Desktop\\My Things\\Univ\\Algoritmos\\junit-platform-console-standalone-1.8.0-M1.jar",
+        "c:\\Users\\FIT\\Downloads\\junit-platform-console-standalone-1.8.0-M1.jar"
     ],
     "java.project.sourcePaths": [
         "TA8/src",
