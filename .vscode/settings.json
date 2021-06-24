@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\FIT\\Downloads\\junit-platform-console-standalone-1.8.0-M1.jar"
+    ],
+    "java.project.sourcePaths": [
+        "TA8/src",
+        "TA8/test"
+    ]
+}
